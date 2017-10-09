@@ -4,8 +4,8 @@
 		"q&a": [
       {
 			  "q": "How to send data between content_script and background_script?",
-			  "a": "you can communicate and send data between content_script and background_script using browser.runtime API."
-        "ref": "https://developer.mozilla.org/en-US/Add-ons/WebExtensions/API/runtime"
+			  "a": "you can communicate and send data between content_script and background_script using browser.runtime API.",
+        "ref": ["https://developer.mozilla.org/en-US/Add-ons/WebExtensions/API/runtime"]
 		  }
     ]
 	}
